@@ -22,6 +22,7 @@ function logWhisper(string) {
 // last one Grandma
 function sayHiToGrandma(string) {
 
+/*
 if string.toUpperCase() === string {
   return "YES INDEED!";}
 else if string.toLowerCase() === string {
@@ -29,8 +30,8 @@ else if string.toLowerCase() === string {
 else if string === "I love you, Grandma." {
   return "I love you, too."}
 }
-
-/* switch(string) {
+*/
+switch(string) {
   case string.toUpperCase() === string :
    return "YES INDEED!";
    break;
@@ -39,4 +40,4 @@ else if string === "I love you, Grandma." {
    break;
   case string === "I love you, Grandma." :
    return "I love you, too.";
- }*/
+ }
