@@ -20,3 +20,6 @@ function logWhisper(string) {
 }
 
 // last one Grandma
+function sayHiToGrandma(string) {
+
+}
