@@ -20,9 +20,3 @@ function logWhisper(string) {
 }
 
 // last one Grandma
-function sayHiToGrandma(string) {
-
-if string.toLowerCase() === string {
-  return "YES INDEED!";
-}
-}
